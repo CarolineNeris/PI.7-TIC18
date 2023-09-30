@@ -30,11 +30,11 @@ bool ehNumeroArmstrong(int numero) {
 int main() {
     int numero;
 
-    // Obter entrada do usuário
+   
     cout << "Digite um número inteiro: ";
     cin >> numero;
 
-    // Verificar se o número é um número de Armstrong e exibir o resultado
+    
     if (ehNumeroArmstrong(numero)) {
         cout << numero << " é um número de Armstrong." << endl;
     } else {
