@@ -1,5 +1,5 @@
 #include <iostream>
-//#include <iomanip> // Para formatar a saída
+//#include <iomanip> 
 
 using namespace std;
 
